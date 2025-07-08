@@ -9,3 +9,4 @@ seaborn
 pandas
 numpy
 jupyterlab
+fast-dash==0.2.13
