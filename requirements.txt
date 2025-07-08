@@ -1,0 +1,12 @@
+ipywidgets
+voila
+gradio
+streamlit
+fast-dash
+gunicorn
+matplotlib
+seaborn
+pandas
+numpy
+jupyterlab
+fast-dash==0.2.13
